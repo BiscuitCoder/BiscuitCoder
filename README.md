@@ -1,18 +1,9 @@
-# 𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 Keylen
+# 𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 Keylen                       
 
-░▒▓████████▓▒░ ░▒▓█▓▒░░▒▓█▓▒░ ░▒▓████████▓▒░  ░▒▓██████▓▒░   ░▒▓██████▓▒░  
-░▒▓█▓▒░░▒▓█▓▒░ ░▒▓█▓▒░░▒▓█▓▒░ ░▒▓█▓▒░░▒▓█▓▒░ ░▒▓█▓▒░░▒▓█▓▒░ ░▒▓█▓▒░░▒▓█▓▒░ 
-░▒▓█▓▒░░▒▓█▓▒░ ░▒▓█▓▒░░▒▓█▓▒░        ░▒▓█▓▒░ ░▒▓█▓▒░        ░▒▓█▓▒░░▒▓█▓▒░ 
-░▒▓█▓▒░░▒▓█▓▒░  ░▒▓██████▓▒░        ░▒▓█▓▒░  ░▒▓█▓▒░        ░▒▓████████▓▒░ 
-░▒▓█▓▒░░▒▓█▓▒░ ░▒▓█▓▒░░▒▓█▓▒░       ░▒▓█▓▒░  ░▒▓█▓▒░        ░▒▓█▓▒░░▒▓█▓▒░ 
-░▒▓█▓▒░░▒▓█▓▒░ ░▒▓█▓▒░░▒▓█▓▒░      ░▒▓█▓▒░   ░▒▓█▓▒░░▒▓█▓▒░ ░▒▓█▓▒░░▒▓█▓▒░ 
-░▒▓████████▓▒░ ░▒▓█▓▒░░▒▓█▓▒░      ░▒▓█▓▒░    ░▒▓██████▓▒░  ░▒▓█▓▒░░▒▓█▓▒░ 
-                                                                           
-                                                                           
+![alt text](image.png)
 
-💻 𝑨𝒔 𝒂 𝑾𝒆𝒃𝟑 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓, 𝒇𝒐𝒓 𝒎𝒆, 𝒄𝒐𝒅𝒆 𝒊𝒔 𝒏𝒐𝒕 𝒋𝒖𝒔𝒕 𝒂 𝒑𝒓𝒐𝒅𝒖𝒄𝒕𝒊𝒗𝒊𝒕𝒚 𝒕𝒐𝒐𝒍🛠️, 𝒃𝒖𝒕 𝒂𝒍𝒔𝒐 𝒂𝒏 𝒂𝒓𝒕 𝒕𝒉𝒂𝒕 𝒔𝒂𝒕𝒊𝒔𝒇𝒊𝒆𝒔 𝒎𝒚 𝒄𝒓𝒆𝒂𝒕𝒊𝒗𝒆 𝒅𝒆𝒔𝒊𝒓𝒆𝒔! 🎨
+#### 💻 𝑨𝒔 𝒂 𝑾𝒆𝒃𝟑 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓, 𝒇𝒐𝒓 𝒎𝒆, 𝒄𝒐𝒅𝒆 𝒊𝒔 𝒏𝒐𝒕 𝒋𝒖𝒔𝒕 𝒂 𝒑𝒓𝒐𝒅𝒖𝒄𝒕𝒊𝒗𝒊𝒕𝒚 𝒕𝒐𝒐𝒍🛠️, 𝒃𝒖𝒕 𝒂𝒍𝒔𝒐 𝒂𝒏 𝒂𝒓𝒕 𝒕𝒉𝒂𝒕 𝒔𝒂𝒕𝒊𝒔𝒇𝒊𝒆𝒔 𝒎𝒚 𝒄𝒓𝒆𝒂𝒕𝒊𝒗𝒆 𝒅𝒆𝒔𝒊𝒓𝒆𝒔! 🎨
 
----
 
 ## Social
 [![](https://img.shields.io/badge/-@BiscuitCoder-%23181717?&logo=github)](https://github.com/BiscuitCoder)
@@ -20,33 +11,46 @@
 [![](https://img.shields.io/website?color=0ab9e6&&up_message=0xspace.tech&url=https://0xspace.tech&logo=chromecast)](https://0xspace.tech)
 
 
----
 
-## 𝗦𝘁𝗮𝗰𝗸
+## 前度𝗦𝘁𝗮𝗰𝗸
 
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Less](https://img.shields.io/badge/-Less-%231d365d?style=flat-square&logo=less&logoColor=ffffff)
-![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
-![Stylus](https://img.shields.io/badge/-Stylus-%23333333?style=flat-square&logo=stylus)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-%231a202c?style=flat-square&logo=tailwind-css)
-![UnoCSS](https://img.shields.io/badge/-UnoCSS-%23333333?style=flat-square&logo=unocss)
-![WindiCSS](https://img.shields.io/badge/-WindiCSS-%23000000?style=flat-square&logo=tailwind-css&&logoColor=48B0F1)
-![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack)
-![Rollup](https://img.shields.io/badge/-Rollup-%23EC4A3F?style=flat-square&logo=rollupdotjs&logoColor=ffffff)
-![Vite](https://img.shields.io/badge/-Vite-%23646CFF?style=flat-square&logo=vite&logoColor=ffffff)
-![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint)
-![Prettier](https://img.shields.io/badge/-Prettier-%23F7B93E?style=flat-square&logo=prettier&logoColor=ffffff)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?&logo=typescript&logoColor=white)
+![Sass](https://img.shields.io/badge/-Sass-%23CC6699?&logo=sass&logoColor=ffffff)
+![WindiCSS](https://img.shields.io/badge/-WindiCSS-%23000000?&logo=tailwind-css&&logoColor=48B0F1)
+![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?&logo=webpack)
+![Vite](https://img.shields.io/badge/-Vite-%23646CFF?&logo=vite&logoColor=ffffff)
+![vuedotjs](https://img.shields.io/badge/VUE2/3-4FC08D?logo=vuedotjs&logoColor=white)
+![react](https://img.shields.io/badge/React-0088CC?logo=react&logoColor=white)
+![nextdotjs](https://img.shields.io/badge/Nextjs-000000?logo=nextdotjs&logoColor=white)
+![nuxt](https://img.shields.io/badge/Nuxt-00DC82?logo=nuxt&logoColor=white)
 
-![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
-![Vercel](https://img.shields.io/badge/-Vercel-%23ffffff?style=flat-square&logo=vercel&logoColor=000000)
-![Railway](https://img.shields.io/badge/-Railway-%230B0D0E?style=flat-square&logo=railway)
-![Render](https://img.shields.io/badge/-Render-%2346E3B7?style=flat-square&logo=render&logoColor=ffffff)
+## 后端技术栈
+![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
+![Golang](https://img.shields.io/badge/Golang-00ADD8?logo=go&logoColor=white)
+![nodedotjs](https://img.shields.io/badge/Nodejs-5FA04E?logo=nodedotjs&logoColor=white)
+![expressdotcom](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=stackbit&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![wordpress](https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white)
+![vitepress](https://img.shields.io/badge/Vitepress-5C73E7?logo=vitepress&logoColor=white)
+![hexo](https://img.shields.io/badge/Hexo-0E83CD?logo=hexo&logoColor=white)
+
+## 设计技术栈
+![Figma](https://img.shields.io/badge/Figma-000000?logo=figma&logoColor=white)
+![PS](https://img.shields.io/badge/Photoshop-003399?logo=phpstorm&logoColor=white)
+![Coreldraw](https://img.shields.io/badge/Coreldraw-24B064?logo=coreldraw&logoColor=white)
+![excalidraw](https://img.shields.io/badge/Excalidraw-6965DB?logo=excalidraw&logoColor=white)
+![modao](https://img.shields.io/badge/Modao-FF0000?logo=probot&logoColor=white)
+
+
+## 工具技术栈
+![Git](https://img.shields.io/badge/-Git-%23F05032?&logo=git&logoColor=%23ffffff)
+![Vercel](https://img.shields.io/badge/vercel-000000?&logo=Vercel&logoColor=white)
+![cloudflare](https://img.shields.io/badge/Cloudflare-F38020?&logo=cloudflare&logoColor=white)
+
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
