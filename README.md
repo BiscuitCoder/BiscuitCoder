@@ -9,9 +9,8 @@
 ## 👥 Social
 [![](https://img.shields.io/badge/-@BiscuitCoder-%23181717?&logo=github)](https://github.com/BiscuitCoder)
 [![](https://img.shields.io/badge/-@keylen1010-%23181717?&logo=x)](https://x.com/keylen1010)
+[![](https://img.shields.io/badge/-kelenworks@gmail.com-EA4335?&logo=gmail&logoColor=white)](https://x.com/keylen1010)
 [![](https://img.shields.io/website?color=0ab9e6&&up_message=0xspace.tech&url=https://0xspace.tech&logo=chromecast)](https://0xspace.tech)
-
-
 
 ## 💻 Front-end 𝗦𝘁𝗮𝗰𝗸
 
