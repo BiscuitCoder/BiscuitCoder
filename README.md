@@ -12,7 +12,7 @@
 
 
 
-## 前度𝗦𝘁𝗮𝗰𝗸
+## Front-end 𝗦𝘁𝗮𝗰𝗸
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?&logo=css3)
@@ -27,7 +27,7 @@
 ![nextdotjs](https://img.shields.io/badge/Nextjs-000000?logo=nextdotjs&logoColor=white)
 ![nuxt](https://img.shields.io/badge/Nuxt-00DC82?logo=nuxt&logoColor=white)
 
-## 后端技术栈
+## Backend 𝗦𝘁𝗮𝗰𝗸
 ![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
 ![Golang](https://img.shields.io/badge/Golang-00ADD8?logo=go&logoColor=white)
 ![nodedotjs](https://img.shields.io/badge/Nodejs-5FA04E?logo=nodedotjs&logoColor=white)
@@ -38,7 +38,7 @@
 ![vitepress](https://img.shields.io/badge/Vitepress-5C73E7?logo=vitepress&logoColor=white)
 ![hexo](https://img.shields.io/badge/Hexo-0E83CD?logo=hexo&logoColor=white)
 
-## 设计技术栈
+## Design
 ![Figma](https://img.shields.io/badge/Figma-000000?logo=figma&logoColor=white)
 ![PS](https://img.shields.io/badge/Photoshop-003399?logo=phpstorm&logoColor=white)
 ![Coreldraw](https://img.shields.io/badge/Coreldraw-24B064?logo=coreldraw&logoColor=white)
@@ -46,7 +46,7 @@
 ![modao](https://img.shields.io/badge/Modao-FF0000?logo=probot&logoColor=white)
 
 
-## 工具技术栈
+## Tool
 ![Git](https://img.shields.io/badge/-Git-%23F05032?&logo=git&logoColor=%23ffffff)
 ![Vercel](https://img.shields.io/badge/vercel-000000?&logo=Vercel&logoColor=white)
 ![cloudflare](https://img.shields.io/badge/Cloudflare-F38020?&logo=cloudflare&logoColor=white)
