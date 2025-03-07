@@ -35,7 +35,7 @@
 ![expressdotcom](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=stackbit&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-
+![ng](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)
 
 ## 🚀 Web3 𝗦𝘁𝗮𝗰𝗸
 ![web3dotjs](https://img.shields.io/badge/Web3js-F16822?logo=web3dotjs&logoColor=white)
