@@ -14,6 +14,6 @@
 
 | Project | Description | Link |
 |---------|-------------|------|
-| ![PathTX](./images/pathtx.svg)   | Batch transaction assembler based on EIP-7702 | [Live](https://eip-7702-aggregator.vercel.app/)|
-| ![0xspace](./images/wownav.svg)   | Transform your bookmarks into a navigation website with one click | [Live](https://wownav.net/)|
-| ![0xspace](./images/0xspace.svg)  | Explore the history and major cases of Web3 | [Live](https://0xspace.tech/) |
+| ![PathTX](./images/pathtx.png)   | Batch transaction assembler based on EIP-7702 | [Live](https://eip-7702-aggregator.vercel.app/)|
+| ![0xspace](./images/wownav.png)   | Transform your bookmarks into a navigation website with one click | [Live](https://wownav.net/)|
+| ![0xspace](./images/0xspace.png)  | Explore the history and major cases of Web3 | [Live](https://0xspace.tech/) |
