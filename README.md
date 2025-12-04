@@ -10,6 +10,7 @@
 - 🔭 Continuously exploring interesting things in the digital world.
 
 
+<!--
 # 📦 Projects
 
 | Project | Description | Link |
@@ -18,3 +19,4 @@
 | ![0xspace](./images/wownav.png)   | Transform your bookmarks into a navigation website with one click. | [Live](https://wownav.net/)|
 | ![0xspace](./images/0xspace.png)  | Explore the history and major cases of Web3. | [Live](https://0xspace.tech/) |
 | ![Circle Adjustment](./images/0.png)  | Adjusting circles drawn during slacking off at work | [Live](https://drawing0.vercel.app/) |
+-->
