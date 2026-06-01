@@ -1,12 +1,12 @@
 # 👋 GM~ Nice to see you.
 
-### 𝕎𝕖𝕓𝟛 𝔻𝕚𝕘𝕚𝕥𝕒𝕝 𝕟𝕠𝕞𝕒𝕕𝕤 , 𝕃𝕚𝕓𝕖𝕣𝕒𝕥𝕖 𝕡𝕣𝕠𝕕𝕦𝕔𝕥𝕚𝕧𝕚𝕥𝕪 𝕗𝕣𝕖𝕖𝕝𝕪 ！
+### 𝔻𝕚𝕘𝕚𝕥𝕒𝕝 𝕟𝕠𝕞𝕒𝕕𝕤 , 𝕃𝕚𝕓𝕖𝕣𝕒𝕥𝕖 𝕡𝕣𝕠𝕕𝕦𝕔𝕥𝕚𝕧𝕚𝕥𝕪 𝕗𝕣𝕖𝕖𝕝𝕪 ！
 
 ![alt text](./images/image.webp)
 
 # 👨‍💻 About
 
-- ⛵ Currently working in the Web3 industry.
+- ⛵ Currently working in the Web3&AI industry.
 - 🔭 Continuously exploring interesting things in the digital world.
 
 
