@@ -8,4 +8,7 @@
   
 <!-- ![alt text](./images/image.webp) -->
 
-<img width="700" alt="image" src="https://github.com/user-attachments/assets/3bc2b226-4456-4d26-8022-f060e9ffa4f5" />
+<img width="520" height="742" alt="image" src="https://github.com/user-attachments/assets/534c91ee-b491-4acd-9342-920e2bd6f9fa" />
+
+
+
